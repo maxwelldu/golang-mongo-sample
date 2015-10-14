@@ -19,3 +19,4 @@ script:
   - export GOPATH=/gopath
   - go get -t golang-mongo-sample
   - go test golang-mongo-sample
+
